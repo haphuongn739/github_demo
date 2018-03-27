@@ -1,0 +1,19 @@
+﻿1>------ Build started: Project: homework, Configuration: Debug Win32 ------
+1>Build started 3/17/2018 10:21:55 PM.
+1>InitializeBuildStatus:
+1>  Creating "Debug\homework.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>Link:
+1>  LINK : C:\homework\Debug\homework.exe not found or not built by the last incremental link; performing full link
+1>  homework.vcxproj -> C:\homework\Debug\homework.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\homework.unsuccessfulbuild".
+1>  Touching "Debug\homework.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.24
+--------------------- Done ----------------------
+
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
